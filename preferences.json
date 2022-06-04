@@ -1,0 +1,7 @@
+let love = {
+film: "Pulp fiction",
+serial: "Expanse",
+food: "Halva",
+season: "Summer",
+country: "USA"
+};
