@@ -1,1 +1,9 @@
-
+let bug = {
+  ID: 1,
+  project: "json",
+  version: 0.1,
+  severity: "s4",
+  priority: "p3",
+  status: "new",
+  author: "Ilya"
+};
